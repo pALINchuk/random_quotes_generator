@@ -1,0 +1,28 @@
+.generatorWrapper{
+    color: red;
+    border: 3px solid #000;
+    border-radius: 1rem;
+    display: inline-block;
+    padding: 1rem 1.3rem;
+}
+
+.newQuoteButton{
+    color: black;
+    background-color: white;
+    border: 1px solid #5d5d5d;
+    border-radius: 0.3rem;
+    padding: 0.7rem;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+    margin: 1rem 3rem;
+}
+
+.newQuoteButton:hover{
+    background-color: #9f9f9f;
+}
+
+.readyQuote{
+    font-weight: bold;
+    text-align: center;
+    margin: 1rem
+}
